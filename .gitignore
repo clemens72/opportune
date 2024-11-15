@@ -32,4 +32,7 @@ yarn-error.log*
 /playwright-report/
 /playwright/.cache/
 
+# visual studio
+/.vs/
+
 /.npm-only-allow
