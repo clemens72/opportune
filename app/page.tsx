@@ -5,7 +5,7 @@ import { Button } from "components/Button/Button"
 import { LP_GRID_ITEMS } from "lp-items"
 
 export const metadata: Metadata = {
-  title: "opporTune | Bridging the Mindgap",
+  title: "WiMBL | Keeping the Internet Local",
   twitter: {
     card: "summary_large_image",
   },
@@ -44,15 +44,13 @@ export default function Web() {
               WiMBL
             </h1>
             <p className="mb-6 max-w-2xl font-light text-gray-500 dark:text-gray-400 md:text-lg lg:mb-8 lg:text-xl">
-              The right brain discovers the profound: taking the road less traveled, and sharing the tale in full color.
-              Unfortunately this lack of conformity hinders organizing, planning and communicating among other things.
-              opporTune aims to provide tools and resources for those less structured.
+              We are different, and thus, unreliable! ...or unpredictable?
             </p>
-            <Button href="https://github.com/Blazity/next-enterprise" className="mr-3">
+            <Button href="https://wimbl.com/" className="mr-3">
               Log In
             </Button>
             <Button
-              href="https://vercel.com/new/git/external?repository-url=https://github.com/Blazity/next-enterprise"
+              href="https://wimbl.com/"
               intent="secondary"
             >
               Sign Up
